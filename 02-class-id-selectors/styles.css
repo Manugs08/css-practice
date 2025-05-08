@@ -2,3 +2,16 @@
     background-color: #ffe6e6;
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
+#segundo{
+    color:blue;
+    font-size: 36px;
+}
+
+.impar.tercero{
+    font-size: 24px;
+}
+#cuarto{
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
